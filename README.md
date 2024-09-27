@@ -13,4 +13,4 @@ Student Info
 * Name: Lý Nhật Huy
 * ID: 22BI13191
 * Group ID: 2
-* Project Name: *Your Project Name here*
+* Project Name: Movie Review Platform
