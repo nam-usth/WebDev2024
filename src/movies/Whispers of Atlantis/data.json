@@ -1,0 +1,10 @@
+{
+  "title": "Whispers of Atlantis",
+  "genres": ["Adventure", "Fantasy"],
+  "ratings": [4, 4, 5, 3, 4, 5, 4, 4, 5, 4],
+  "reviews": [
+    "A magical journey to the depths of the ocean and myth.",
+    "The CGI is spectacular, bringing Atlantis to life like never before.",
+    "Fun for the whole family, with a good message about conservation."
+  ]
+}

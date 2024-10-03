@@ -1,0 +1,10 @@
+{
+  "title": "Echoes of Tomorrow",
+  "genres": ["Drama", "Sci-Fi"],
+  "ratings": [4, 3, 4, 5, 4, 4, 3, 5, 4, 4],
+  "reviews": [
+    "A touching exploration of human connection in a high-tech world.",
+    "Slow at times, but the emotional payoff is worth it.",
+    "Beautiful cinematography and a standout performance by the lead."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Neon Nights: Cyber City",
+  "genres": ["Action", "Cyberpunk"],
+  "ratings": [5, 3, 4, 5, 4, 5, 5, 4, 3, 5],
+  "reviews": [
+    "The action sequences are breathtaking! A visual feast.",
+    "Great worldbuilding, but the plot could use more depth.",
+    "If you love cyberpunk, this is a must-see!"
+  ]
+}

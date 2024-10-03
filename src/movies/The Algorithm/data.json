@@ -1,0 +1,10 @@
+{
+  "title": "The Algorithm",
+  "genres": ["Thriller", "Tech-Noir"],
+  "ratings": [5, 5, 4, 5, 5, 4, 5, 3, 5, 4],
+  "reviews": [
+    "A chilling look at the dark side of AI. Couldn't look away!",
+    "Tense and thought-provoking. Will make you think twice about your smart devices.",
+    "Brilliant script and direction. A must-watch for tech enthusiasts."
+  ]
+}

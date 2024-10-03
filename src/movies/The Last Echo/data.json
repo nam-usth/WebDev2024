@@ -1,0 +1,10 @@
+{
+  "title": "The Last Echo",
+  "genres": ["Drama", "Mystery"],
+  "ratings": [4, 5, 4, 4, 3, 5, 4, 4, 5, 4],
+  "reviews": [
+    "A haunting story that stays with you long after the credits roll.",
+    "Brilliant performances all around, especially from the lead actress.",
+    "Slow-burn mystery that pays off in the end. Loved it!"
+  ]
+}

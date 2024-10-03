@@ -1,0 +1,10 @@
+{
+  "title": "The Heist of the Century",
+  "genres": ["Action", "Comedy"],
+  "ratings": [4, 5, 4, 3, 5, 4, 5, 4, 5, 4],
+  "reviews": [
+    "Hilarious and action-packed! Haven't laughed this hard at a heist movie in years.",
+    "The chemistry between the lead actors is fantastic.",
+    "Some of the jokes fall flat, but overall a very entertaining ride."
+  ]
+}

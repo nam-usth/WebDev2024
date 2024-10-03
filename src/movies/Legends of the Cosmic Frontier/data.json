@@ -1,0 +1,10 @@
+{
+  "title": "Legends of the Cosmic Frontier",
+  "genres": ["Sci-Fi", "Adventure"],
+  "ratings": [5, 4, 5, 5, 4, 3, 5, 4, 5, 5],
+  "reviews": [
+    "Epic space opera that rivals the classics of the genre!",
+    "The alien designs are incredibly creative and believable.",
+    "A bit long, but packed with action and heart. Great for sci-fi fans!"
+  ]
+}

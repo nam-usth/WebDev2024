@@ -1,0 +1,10 @@
+{
+  "title": "Renaissance 2.0",
+  "genres": ["Documentary", "Technology"],
+  "ratings": [5, 4, 5, 4, 5, 3, 5, 4, 5, 4],
+  "reviews": [
+    "An inspiring look at how technology is reshaping art and culture.",
+    "Beautifully shot and edited. Really showcases the intersection of tech and creativity.",
+    "Informative and thought-provoking. A must-watch for artists and tech enthusiasts alike."
+  ]
+}

@@ -1,0 +1,10 @@
+  {
+    "title": "Quantum Horizon",
+    "genres": ["Sci-Fi", "Thriller"],
+    "ratings": [5, 4, 5, 5, 4, 5, 3, 5, 4, 5],
+    "reviews": [
+      "Mind-bending exploration of quantum realms!",
+      "The visuals are out of this world, but the plot can be confusing at times.",
+      "A thrilling ride through space and time. Absolutely recommended!"
+    ]
+  }
